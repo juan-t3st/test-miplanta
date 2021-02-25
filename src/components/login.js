@@ -71,7 +71,7 @@ export default function Login() {
                         fontFamily: 'Poppins',
                         color: "#fa6304"
                     }}>
-                    ¿Olvidaste tu contraseña??
+                    ¿Olvidaste tu contraseña?
       </Link>
             </div>
 
