@@ -7,7 +7,6 @@ import Login  from "../components/login"
 const IndexPage = () => (
   <Layout>
     <SEO title="DURO" />
-
     <Login/>
     {/* <div className="grid grid-flow-row auto-rows-max place-content-center space-y-6 md:pt-24 md:pb-28 xs:pt-52 xs:pb-56">
       <input type="text" style={{ textAlign: "right", fontFamily: "Poppins", fontSize: "12px", border: "0.5px solid black", paddingRight: "10px" }} className="block w-56 h-8" placeholder="Usuario"></input>
